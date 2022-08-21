@@ -1,1 +1,52 @@
+h1 {
+    text-align: center;
+}
 
+h2 {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+table {
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+thead {
+    background-color: plum;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align:center;
+    background-color: blueviolet;
+    }
+    td {
+        border-top: 1px solid darkorchid;
+    }
+    body {
+        font-family: Arial, sans-serif;
+        background-color: gainsboro;
+    }
+
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+    color: blue;
+}
